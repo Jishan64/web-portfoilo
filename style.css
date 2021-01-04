@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.name-highlight{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+.top{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top img{
+    width: 70%;
+
+}
+section{
+    border: 5;
+    padding-bottom: 10px;
+}
+.Top-Banner{
+    background-image: url(Images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
+.hire-me{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    
+}
+.middle img{
+    width: 75%;
+}
+.middle{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.download{
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.mid{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#full{
+    border-left: black;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 50%;
+}
+.experience{
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 9%%;
+}
+#full{
+    border-left: 10px solid;
+    border-image: linear-gradient(lightsalmon ,tomato );
+    border-image-slice:1 ;
+    }
+#baby{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue , cyan );
+    border-image-slice:1 ;
+}
+#exp{
+    
+    margin-left: 5%;
+}
